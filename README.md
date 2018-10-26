@@ -1,2 +1,2 @@
 # MilesAstray
-Android-App for https://www.milesastray.com/
+Android-App for www.milesastray.com
